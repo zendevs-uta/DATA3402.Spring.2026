@@ -1,6 +1,2 @@
 Student: Zane Coons
 Contact: zac3446@mavs.uta.edu
-
-This text here can be ignored
-This is just to test that git pull/merge works
-and there is no issue pushing back to repo
