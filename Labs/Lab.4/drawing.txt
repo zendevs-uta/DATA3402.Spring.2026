@@ -1,0 +1,1 @@
+raster_from_named_shapes([('shape_0', rectangle(10,6,2,2)), ('shape_1', circle(5,12,25)), ('shape_2', triangle(10,9,7,8,5))])
